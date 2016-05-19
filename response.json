@@ -1,0 +1,89 @@
+{
+  "data": {
+    "articles": [
+      {
+        "id":"i1",
+        "title":"How to Clean a touch Screen",
+        "image":"http://pad3.whstatic.com/images/thumb/a/a4/Clean-a-Touch-Screen-Step-11.jpg/-crop-342-119-159px-nowatermark-Clean-a-Touch-Screen-Step-11.jpg",
+        "body":"Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.",
+        "datePublished":"1288323623006",
+        "categoryId":"00"
+      },
+      {
+        "id":"i2",
+        "title":"How to Add Commands to the Quick Access Toolbar",
+        "image":"http://pad2.whstatic.com/images/thumb/a/a1/Add-Commands-to-the-Quick-Access-Toolbar-Step-1-Version-2.jpg/aid1639096-728px-Add-Commands-to-the-Quick-Access-Toolbar-Step-1-Version-2.jpg.webp",
+        "body":"Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.",
+        "datePublished":"1288323623006",
+        "categoryId":"00"
+      },
+      {
+        "id":"i3",
+        "title":"How to Adjust to a New School",
+        "image":"http://pad2.whstatic.com/images/thumb/7/77/Adjust-to-a-New-School-Step-1-Version-2.jpg/aid766188-728px-Adjust-to-a-New-School-Step-1-Version-2.jpg.webp",
+        "body":"Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.",
+        "datePublished":"1288323623006",
+        "categoryId":"01"
+      },
+      {
+        "id":"i4",
+        "title":"How to Choose a School",
+        "image":"http://pad2.whstatic.com/images/thumb/e/e6/Choose-a-School-Step-1.jpg/aid3594995-728px-Choose-a-School-Step-1.jpg.webp",
+        "body":"Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.",
+        "datePublished":"1288323623006",
+        "categoryId":"01"
+      },
+      {
+        "id":"i5",
+        "title":"How to Calculate Loan Payments",
+        "image":"http://pad1.whstatic.com/images/thumb/6/65/Calculate-Loan-Payments-Step-2-Version-2.jpg/aid1164307-728px-Calculate-Loan-Payments-Step-2-Version-2.jpg.webp",
+        "body":"Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.",
+        "datePublished":"1288323623006",
+        "categoryId":"02"
+      },
+      {
+        "id":"i6",
+        "title":"How to Make a Finance Chart in Numbers",
+        "image":"http://pad2.whstatic.com/images/thumb/a/a2/MakeFinanceChartinNumbersOpenNumbers.png/728px-MakeFinanceChartinNumbersOpenNumbers.png.webp",
+        "body":"Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.",
+        "datePublished":"1288323623006",
+        "categoryId":"02"
+      },
+      {
+        "id":"i7",
+        "title":"How to Choose Windshield Wiper Blades",
+        "image":"http://pad2.whstatic.com/images/thumb/e/e1/Choose-Windshield-Wiper-Blades-Step-2.jpg/aid5671780-728px-Choose-Windshield-Wiper-Blades-Step-2.jpg.webp",
+        "body":"Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.",
+        "datePublished":"1288323623006",
+        "categoryId":"03"
+      },
+      {
+        "id":"i8",
+        "title":"How to Charge Your Electric Car",
+        "image":"http://pad3.whstatic.com/images/thumb/6/68/Charge-Your-Electric-Car-Step-1.jpg/aid2942252-728px-Charge-Your-Electric-Car-Step-1.jpg.webp",
+        "body":"Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.",
+        "datePublished":"1288323623006",
+        "categoryId":"03"
+      }
+    ],
+    "categories": [
+      {
+        "id":"00",
+        "name":"Computers and Electronics"
+      },
+      {
+        "id":"01",
+        "name":"Education and Communications"
+      },
+      {
+        "id":"02",
+        "name":"Finance and Business"
+      },
+      {
+        "id":"03",
+        "name":"Cars & Other Vehicles"
+      }
+    ]
+  }
+
+}
