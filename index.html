@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>FE - AngularJS</title>
+
+	<link rel="stylesheet" href="bower_components/bootstrap/dist/css/bootstrap.css">
+	<link rel="stylesheet" href="css/style.css">
+
+	<script src="bower_components/angular/angular.js"></script>
+	<script src="bower_components/angular-ui-router/release/angular-ui-router.js"></script>
+	<script src="bower_components/jquery/dist/jquery.min.js"></script>
+	<script src="bower_components/bootstrap/dist/js/bootstrap.js"></script>
+
+	<script src="js/app.js"></script>
+	<script src="js/configRoutes.js"></script>
+	<script src="js/controllers/articleController.js"></script>
+	<script src="js/controllers/appController.js"></script>
+	<script src="js/services/service.js"></script>
+
+</head>
+<body ng-app="FE-Angular" ng-controller="appController">
+
+<div class="container">
+
+	<div ui-view></div>
+	<hr>
+	<div class="text-center">© 2015 Company, Inc.</div>
+
+</div>
+
+</body>
+</html>

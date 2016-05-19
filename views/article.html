@@ -1,0 +1,41 @@
+<ng-include src="'views/navigation.html'"></ng-include>
+
+<div class="row">
+	<div class="col-sm-8 blog-main">
+		<div class="blog-post">
+			<hr>
+			<h2 class="blog-post-title">{{article.title}}</h2>
+			<hr>
+			<img src="{{article.image}}" alt="{{article.title}}" width="100%">
+
+			<p class="blog-post-meta">{{article.datePublished | date:"longDate"}}</p>
+
+			<p>{{article.body}}</p>
+		</div>
+	</div>
+	<div class="col-sm-3 col-sm-offset-1 blog-sidebar">
+		<div class="sidebar-module sidebar-module-inset well">
+			<h4>List of All Articles(DESC)</h4>
+			<ol class="list-unstyled">
+				<li ng-repeat="article in articles" ng-click="selectCategory(article.categoryId)">
+					•
+					<a href="#/article/{{article.id}}">
+						{{article.title}}
+					</a>
+				</li>
+			</ol>
+		</div>
+		<div class="sidebar-module sidebar-module-inset well">
+			<h4>List of All Articles(CAT == CAT)</h4>
+			<ol class="list-unstyled">
+				<li ng-repeat="ar in articles" ng-if="ar.categoryId == article.categoryId"
+					ng-click="selectCategory(article.categoryId)">
+					&nbsp;&nbsp;&nbsp;&nbsp;•
+					<a href="#/article/{{ar.id}}">
+						<h6 style="display: inline"> {{ar.title}}</h6>
+					</a>
+				</li>
+			</ol>
+		</div>
+	</div>
+</div>
